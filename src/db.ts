@@ -1,51 +1,51 @@
-import { Database } from "@db/sqlite";
-import * as sqliteVec from "sqlite-vec";
-import { drizzle } from "drizzle-orm/sqlite-proxy";
-import * as schema from "./schema.ts";
+import oracledb from "oracledb";
 
-Deno.mkdirSync("data", { recursive: true });
+oracledb.fetchAsString = [oracledb.CLOB];
+oracledb.outFormat = oracledb.OUT_FORMAT_OBJECT;
+oracledb.autoCommit = true;
 
-const sqlite = new Database("data/movies.db");
-sqlite.enableLoadExtension = true;
-sqlite.loadExtension(sqliteVec.getLoadablePath());
+await oracledb.createPool({
+  user: Deno.env.get("ORACLE_USER")!,
+  password: Deno.env.get("ORACLE_PASSWORD")!,
+  connectString: Deno.env.get("ORACLE_CONNECT_STRING")!,
+  poolMin: 1,
+  poolMax: 4,
+});
 
-sqlite.exec(`
-  CREATE TABLE IF NOT EXISTS movies (
-    id            INTEGER PRIMARY KEY,
-    title         TEXT NOT NULL,
-    overview      TEXT,
-    release_date  TEXT,
-    poster_path   TEXT,
-    genres        TEXT,
-    vote_average  REAL
-  );
-`);
-sqlite.exec(`
-  CREATE VIRTUAL TABLE IF NOT EXISTS movie_vec USING vec0(
-    movie_id  INTEGER PRIMARY KEY,
-    embedding FLOAT[384]
-  );
-`);
+export interface Movie {
+  id: number;
+  title: string;
+  overview: string | null;
+  release_date: string | null;
+  poster_path: string | null;
+  genres: string[] | null;
+  vote_average: number | null;
+}
 
-type ProxyMethod = "run" | "all" | "values" | "get";
+type Binds = Record<string, unknown> | unknown[];
 
-export const db = drizzle(
-  (sql: string, params: unknown[], method: ProxyMethod) => {
-    const args = params.map((p) => (p === undefined ? null : p)) as never[];
-    const stmt = sqlite.prepare(sql);
-    if (method === "run") {
-      stmt.run(...args);
-      return Promise.resolve({ rows: [] });
-    }
-    if (method === "get") {
-      const row = [...stmt.values(...args)][0] ?? [];
-      return Promise.resolve({ rows: row });
-    }
-    const rows = [...stmt.values(...args)];
-    return Promise.resolve({ rows });
-  },
-  { schema },
-);
+export async function query<T = Record<string, unknown>>(
+  sql: string,
+  binds: Binds = {},
+): Promise<T[]> {
+  const c = await oracledb.getConnection();
+  try {
+    const r = await c.execute<T>(sql, binds);
+    return r.rows ?? [];
+  } finally {
+    await c.close();
+  }
+}
 
-export { sqlite };
-export * from "./schema.ts";
+export async function exec(sql: string, binds: Binds = {}): Promise<void> {
+  const c = await oracledb.getConnection();
+  try {
+    await c.execute(sql, binds);
+  } finally {
+    await c.close();
+  }
+}
+
+export const closePool = () => oracledb.getPool().close(0);
+
+export { oracledb };

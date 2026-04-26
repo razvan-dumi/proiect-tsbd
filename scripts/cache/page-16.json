@@ -1,0 +1,424 @@
+{
+  "page": 16,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 14160,
+      "title": "Up",
+      "original_language": "en",
+      "original_title": "Up",
+      "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+      "popularity": 18.131,
+      "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "release_date": "2009-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.959,
+      "vote_count": 21561
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 986056,
+      "title": "Thunderbolts*",
+      "original_language": "en",
+      "original_title": "Thunderbolts*",
+      "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "popularity": 20.035,
+      "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "release_date": "2025-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.287,
+      "vote_count": 3409
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+      "genre_ids": [
+        878,
+        27,
+        53
+      ],
+      "id": 1064028,
+      "title": "Subservience",
+      "original_language": "en",
+      "original_title": "Subservience",
+      "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+      "popularity": 29.7233,
+      "poster_path": "/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+      "release_date": "2024-08-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.625,
+      "vote_count": 975
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878
+      ],
+      "id": 10681,
+      "title": "WALL·E",
+      "original_language": "en",
+      "original_title": "WALL·E",
+      "overview": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+      "popularity": 18.1241,
+      "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "release_date": "2008-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.11,
+      "vote_count": 20142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mvQjmetMQwqQLeLTH4LtdoE65aM.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1404320,
+      "title": "Wild Agent 2: Peach Assassination",
+      "original_language": "zh",
+      "original_title": "特工狂花2：蜜桃杀机",
+      "overview": "To achieve the goal of invading the global financial system, the TNT criminal organization kidnapped expert Fang Li. His wife Yamei, a former ATO agent who had retired, rejoined the organization to rescue her husband.",
+      "popularity": 16.7048,
+      "poster_path": "/cozwDLiMHdn8rOSdjIZUoA4lJX9.jpg",
+      "release_date": "2024-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1156593,
+      "title": "Your Fault",
+      "original_language": "es",
+      "original_title": "Culpa tuya",
+      "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+      "popularity": 19.9603,
+      "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+      "release_date": "2024-12-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.083,
+      "vote_count": 1533
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1291608,
+      "title": "Dhurandhar",
+      "original_language": "hi",
+      "original_title": "धुरंधर",
+      "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+      "popularity": 17.586,
+      "poster_path": "/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 259
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xMJvffWIaW9MtlY9aIXKViUNeIO.jpg",
+      "genre_ids": [
+        35,
+        878,
+        18
+      ],
+      "id": 646380,
+      "title": "Don't Look Up",
+      "original_language": "en",
+      "original_title": "Don't Look Up",
+      "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+      "popularity": 15.144,
+      "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "release_date": "2021-12-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.064,
+      "vote_count": 9258
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "id": 762509,
+      "title": "Mufasa: The Lion King",
+      "original_language": "en",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+      "popularity": 16.5448,
+      "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "release_date": "2024-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.311,
+      "vote_count": 2621
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2dlt9I2ga6hweywz9zsFUz1PVii.jpg",
+      "genre_ids": [
+        878,
+        53,
+        27
+      ],
+      "id": 604079,
+      "title": "The Long Walk",
+      "original_language": "en",
+      "original_title": "The Long Walk",
+      "overview": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+      "popularity": 17.5219,
+      "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+      "release_date": "2025-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.915,
+      "vote_count": 1377
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A7BiqPOKvGNalAZhFn1WfSeG9aO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53,
+        10770
+      ],
+      "id": 137051,
+      "title": "Midnight Matinee",
+      "original_language": "en",
+      "original_title": "Midnight Matinee",
+      "overview": "Even though a devastating murder took place during a small town's horror film festival two years earlier, townspeople want another festival.",
+      "popularity": 17.9966,
+      "poster_path": "/czam6wq46B9UCZvq85vicElckFq.jpg",
+      "release_date": "1988-10-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+      "genre_ids": [
+        18,
+        53,
+        10752
+      ],
+      "id": 16869,
+      "title": "Inglourious Basterds",
+      "original_language": "en",
+      "original_title": "Inglourious Basterds",
+      "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+      "popularity": 16.992,
+      "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+      "release_date": "2009-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.217,
+      "vote_count": 24035
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1734,
+      "title": "The Mummy Returns",
+      "original_language": "en",
+      "original_title": "The Mummy Returns",
+      "overview": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+      "popularity": 16.1965,
+      "poster_path": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+      "release_date": "2001-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.397,
+      "vote_count": 7612
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "original_language": "en",
+      "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+      "popularity": 18.6143,
+      "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+      "release_date": "2005-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.135,
+      "vote_count": 11433
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1317149,
+      "title": "I Swear",
+      "original_language": "en",
+      "original_title": "I Swear",
+      "overview": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
+      "popularity": 18.9352,
+      "poster_path": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+      "release_date": "2025-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.262,
+      "vote_count": 248
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 77338,
+      "title": "The Intouchables",
+      "original_language": "fr",
+      "original_title": "Intouchables",
+      "overview": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+      "popularity": 16.0913,
+      "poster_path": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+      "release_date": "2011-11-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.269,
+      "vote_count": 18326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 475557,
+      "title": "Joker",
+      "original_language": "en",
+      "original_title": "Joker",
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "popularity": 17.611,
+      "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "release_date": "2019-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.126,
+      "vote_count": 27575
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 949,
+      "title": "Heat",
+      "original_language": "en",
+      "original_title": "Heat",
+      "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+      "popularity": 17.7937,
+      "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+      "release_date": "1995-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.932,
+      "vote_count": 8258
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 11324,
+      "title": "Shutter Island",
+      "original_language": "en",
+      "original_title": "Shutter Island",
+      "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "popularity": 18.3919,
+      "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "release_date": "2010-02-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.198,
+      "vote_count": 25694
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cvH1gNIMRITdLzoWv1HNAbRyH3n.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 2105,
+      "title": "American Pie",
+      "original_language": "en",
+      "original_title": "American Pie",
+      "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
+      "popularity": 16.5357,
+      "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+      "release_date": "1999-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.604,
+      "vote_count": 8244
+    }
+  ],
+  "total_pages": 56395,
+  "total_results": 1127881
+}

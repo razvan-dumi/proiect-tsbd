@@ -1,0 +1,420 @@
+{
+  "page": 25,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 335983,
+      "title": "Venom",
+      "original_language": "en",
+      "original_title": "Venom",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "popularity": 14.4857,
+      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "release_date": "2018-09-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 17158
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 979,
+      "title": "Irreversible",
+      "original_language": "fr",
+      "original_title": "Irréversible",
+      "overview": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+      "popularity": 16.0378,
+      "poster_path": "/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+      "release_date": "2002-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.178,
+      "vote_count": 3252
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qPwwAUeO0b2RU1wHPyx8vf5RgF5.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 3558,
+      "title": "Girl, Interrupted",
+      "original_language": "en",
+      "original_title": "Girl, Interrupted",
+      "overview": "Set in the changing world of the late 1960s, Susanna Kaysen's prescribed \"short rest\" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",
+      "popularity": 13.2152,
+      "poster_path": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+      "release_date": "1999-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4121
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 324552,
+      "title": "John Wick: Chapter 2",
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 2",
+      "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+      "popularity": 14.4792,
+      "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "release_date": "2017-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 14167
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg",
+      "genre_ids": [
+        35,
+        18,
+        53
+      ],
+      "id": 466272,
+      "title": "Once Upon a Time... in Hollywood",
+      "original_language": "en",
+      "original_title": "Once Upon a Time... in Hollywood",
+      "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+      "popularity": 13.3821,
+      "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "release_date": "2019-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 14749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+      "genre_ids": [
+        35,
+        14,
+        80,
+        10749
+      ],
+      "id": 854,
+      "title": "The Mask",
+      "original_language": "en",
+      "original_title": "The Mask",
+      "overview": "Stanley Ipkiss, an insecure banker who has lost his zest for life stumbles upon an ancient mask, that turns him into a confident suave cartoon-like character who upsets his ordinary life.",
+      "popularity": 12.5095,
+      "poster_path": "/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+      "release_date": "1994-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.981,
+      "vote_count": 11175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vh7np635kDIcfO6x2Y9ElgLJsuI.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 4232,
+      "title": "Scream",
+      "original_language": "en",
+      "original_title": "Scream",
+      "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+      "popularity": 16.2528,
+      "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "release_date": "1996-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 7871
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 43347,
+      "title": "Love & Other Drugs",
+      "original_language": "en",
+      "original_title": "Love & Other Drugs",
+      "overview": "Maggie is an alluring free spirit who won't let anyone – or anything – tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
+      "popularity": 14.8422,
+      "poster_path": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+      "release_date": "2010-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.038,
+      "vote_count": 5554
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "original_language": "en",
+      "original_title": "Black Panther: Wakanda Forever",
+      "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+      "popularity": 12.2544,
+      "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "release_date": "2022-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.004,
+      "vote_count": 7405
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 345,
+      "title": "Eyes Wide Shut",
+      "original_language": "en",
+      "original_title": "Eyes Wide Shut",
+      "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "popularity": 15.4649,
+      "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "release_date": "1999-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.486,
+      "vote_count": 6970
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10749
+      ],
+      "id": 321612,
+      "title": "Beauty and the Beast",
+      "original_language": "en",
+      "original_title": "Beauty and the Beast",
+      "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+      "popularity": 13.8397,
+      "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+      "release_date": "2017-03-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.968,
+      "vote_count": 15968
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+      "genre_ids": [
+        27,
+        53,
+        12
+      ],
+      "id": 578,
+      "title": "Jaws",
+      "original_language": "en",
+      "original_title": "Jaws",
+      "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+      "popularity": 12.0778,
+      "poster_path": "/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg",
+      "release_date": "1975-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.682,
+      "vote_count": 11458
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1294203,
+      "title": "My Fault: London",
+      "original_language": "en",
+      "original_title": "My Fault: London",
+      "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+      "popularity": 13.7804,
+      "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+      "release_date": "2025-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.38,
+      "vote_count": 548
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1181678,
+      "title": "¿Quieres ser mi hijo?",
+      "original_language": "en",
+      "original_title": "¿Quieres ser mi hijo?",
+      "overview": "Lu, a conformist woman in her forties, learns that her 15-year partner has been having extramarital affairs. Starting from scratch, she gets involved in an unexpected relationship with a young womanizer.",
+      "popularity": 13.9482,
+      "poster_path": "/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg",
+      "release_date": "2023-09-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.484,
+      "vote_count": 319
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 637,
+      "title": "Life Is Beautiful",
+      "original_language": "it",
+      "original_title": "La vita è bella",
+      "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+      "popularity": 13.5586,
+      "poster_path": "/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "release_date": "1997-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.439,
+      "vote_count": 13922
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5KGrBXvE0cYDwqfEaymvNBVspkJ.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 645710,
+      "title": "The Voyeurs",
+      "original_language": "en",
+      "original_title": "The Voyeurs",
+      "overview": "When Pippa and Thomas move into their dream apartment, they notice that their windows look directly into the apartment opposite – inviting them to witness the volatile relationship of the attractive couple across the street. But what starts as a simple curiosity turns into full-blown obsession with increasingly dangerous consequences.",
+      "popularity": 13.1859,
+      "poster_path": "/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg",
+      "release_date": "2021-08-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.51,
+      "vote_count": 1154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10749
+      ],
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "original_language": "en",
+      "original_title": "Wicked: For Good",
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "popularity": 14.7434,
+      "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "release_date": "2025-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.639,
+      "vote_count": 941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 507086,
+      "title": "Jurassic World Dominion",
+      "original_language": "en",
+      "original_title": "Jurassic World Dominion",
+      "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+      "popularity": 13.1211,
+      "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "release_date": "2022-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.601,
+      "vote_count": 6993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1242501,
+      "title": "Icefall",
+      "original_language": "en",
+      "original_title": "Icefall",
+      "overview": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts.",
+      "popularity": 14.6246,
+      "poster_path": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
+      "release_date": "2025-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.345,
+      "vote_count": 153
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+      "genre_ids": [
+        18,
+        35,
+        36
+      ],
+      "id": 490132,
+      "title": "Green Book",
+      "original_language": "en",
+      "original_title": "Green Book",
+      "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+      "popularity": 13.3429,
+      "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "release_date": "2018-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.223,
+      "vote_count": 12778
+    }
+  ],
+  "total_pages": 56397,
+  "total_results": 1127931
+}

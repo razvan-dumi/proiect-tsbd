@@ -1,0 +1,428 @@
+{
+  "page": 23,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 18785,
+      "title": "The Hangover",
+      "original_language": "en",
+      "original_title": "The Hangover",
+      "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+      "popularity": 15.0536,
+      "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "release_date": "2009-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 17998
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rvWdpDn2WWvtcg30IYCvIEFtWtd.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 1418297,
+      "title": "The Last Shot",
+      "original_language": "th",
+      "original_title": "มือปืน",
+      "overview": "Petch wants out of the assassin's life, but escaping the past isn't easy. Torn between love, loyalty, and revenge, he's forced into one last job. With every shot, the stakes rise—his future and freedom rest on the final bullet.",
+      "popularity": 14.9956,
+      "poster_path": "/3q8l68PtcEVm5KYjbljlcvzMsHH.jpg",
+      "release_date": "2025-11-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zV1AJUj0EzsJV05Ru2lfAWIn3R.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 545611,
+      "title": "Everything Everywhere All at Once",
+      "original_language": "en",
+      "original_title": "Everything Everywhere All at Once",
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "popularity": 14.9955,
+      "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "release_date": "2022-03-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 7856
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 945961,
+      "title": "Alien: Romulus",
+      "original_language": "en",
+      "original_title": "Alien: Romulus",
+      "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "popularity": 14.9556,
+      "poster_path": "/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+      "release_date": "2024-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.165,
+      "vote_count": 4470
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+      "genre_ids": [
+        28,
+        53,
+        12
+      ],
+      "id": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "original_language": "en",
+      "original_title": "Mission: Impossible - Dead Reckoning Part One",
+      "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+      "popularity": 14.9096,
+      "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "release_date": "2023-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.499,
+      "vote_count": 5057
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+      "genre_ids": [
+        18,
+        28,
+        53
+      ],
+      "id": 7485,
+      "title": "Shooter",
+      "original_language": "en",
+      "original_title": "Shooter",
+      "overview": "A top Marine sniper, Bob Lee Swagger, leaves the military after a mission goes horribly awry and disappears, living in seclusion. He is coaxed back into service after a high-profile government official convinces him to help thwart a plot to kill the President of the United States. Ultimately double-crossed and framed for the attempt, Swagger becomes the target of a nationwide manhunt. He goes on the run to track the real killer and find out who exactly set him up, and why, eventually seeking revenge against some of the most powerful and corrupt leaders in the free world.",
+      "popularity": 14.8942,
+      "poster_path": "/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+      "release_date": "2007-03-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.116,
+      "vote_count": 5398
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 28,
+      "title": "Apocalypse Now",
+      "original_language": "en",
+      "original_title": "Apocalypse Now",
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "popularity": 14.8885,
+      "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "release_date": "1979-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 9019
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 43347,
+      "title": "Love & Other Drugs",
+      "original_language": "en",
+      "original_title": "Love & Other Drugs",
+      "overview": "Maggie is an alluring free spirit who won't let anyone – or anything – tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
+      "popularity": 14.8422,
+      "poster_path": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+      "release_date": "2010-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.038,
+      "vote_count": 5554
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 920,
+      "title": "Cars",
+      "original_language": "en",
+      "original_title": "Cars",
+      "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+      "popularity": 14.8403,
+      "poster_path": "/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+      "release_date": "2006-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.024,
+      "vote_count": 15026
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 318256,
+      "title": "Hot Girls Wanted",
+      "original_language": "en",
+      "original_title": "Hot Girls Wanted",
+      "overview": "A first-ever look at the realities of the professional “amateur” porn world and the steady stream of 18-to-19-year old girls entering into it.",
+      "popularity": 14.8263,
+      "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+      "release_date": "2015-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.083,
+      "vote_count": 703
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 2",
+      "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "popularity": 14.8228,
+      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "release_date": "2017-04-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.608,
+      "vote_count": 22825
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14,
+        10749
+      ],
+      "id": 812,
+      "title": "Aladdin",
+      "original_language": "en",
+      "original_title": "Aladdin",
+      "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+      "popularity": 14.8136,
+      "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "release_date": "1992-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 11957
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "genre_ids": [
+        18,
+        28,
+        12,
+        36,
+        10752
+      ],
+      "id": 1495,
+      "title": "Kingdom of Heaven",
+      "original_language": "en",
+      "original_title": "Kingdom of Heaven",
+      "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+      "popularity": 14.7751,
+      "poster_path": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "release_date": "2005-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.021,
+      "vote_count": 4878
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o8dPH0ZSIyyViP6rjRX1djwCUwI.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        27
+      ],
+      "id": 419430,
+      "title": "Get Out",
+      "original_language": "en",
+      "original_title": "Get Out",
+      "overview": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+      "popularity": 14.7707,
+      "poster_path": "/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+      "release_date": "2017-02-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.622,
+      "vote_count": 18774
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 337167,
+      "title": "Fifty Shades Freed",
+      "original_language": "en",
+      "original_title": "Fifty Shades Freed",
+      "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+      "popularity": 14.7705,
+      "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+      "release_date": "2018-01-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.673,
+      "vote_count": 8325
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/70uUnpfe7en9x011UjpZoub101l.jpg",
+      "genre_ids": [
+        99,
+        18
+      ],
+      "id": 1430,
+      "title": "Bowling for Columbine",
+      "original_language": "en",
+      "original_title": "Bowling for Columbine",
+      "overview": "This is not a film about gun control. It is a film about the fearful heart and soul of the United States, and the 280 million Americans lucky enough to have the right to a constitutionally protected Uzi. From a look at the Columbine High School security camera tapes to the home of Oscar-winning NRA President Charlton Heston, from a young man who makes homemade napalm with The Anarchist's Cookbook to the murder of a six-year-old girl by another six-year-old. Bowling for Columbine is a journey through the US, through our past, hoping to discover why our pursuit of happiness is so riddled with violence.",
+      "popularity": 14.7692,
+      "poster_path": "/5AlgeysilsfLdEwlTlYO7fqgsLn.jpg",
+      "release_date": "2002-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.51,
+      "vote_count": 1680
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751,
+        878
+      ],
+      "id": 1022787,
+      "title": "Elio",
+      "original_language": "en",
+      "original_title": "Elio",
+      "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+      "popularity": 14.7525,
+      "poster_path": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+      "release_date": "2025-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.916,
+      "vote_count": 947
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10749
+      ],
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "original_language": "en",
+      "original_title": "Wicked: For Good",
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "popularity": 14.7434,
+      "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "release_date": "2025-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.639,
+      "vote_count": 941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 425,
+      "title": "Ice Age",
+      "original_language": "en",
+      "original_title": "Ice Age",
+      "overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+      "popularity": 14.7257,
+      "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+      "release_date": "2002-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.369,
+      "vote_count": 14209
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        35
+      ],
+      "id": 49013,
+      "title": "Cars 2",
+      "original_language": "en",
+      "original_title": "Cars 2",
+      "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+      "popularity": 14.6962,
+      "poster_path": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+      "release_date": "2011-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.177,
+      "vote_count": 8428
+    }
+  ],
+  "total_pages": 56398,
+  "total_results": 1127948
+}

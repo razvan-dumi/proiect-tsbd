@@ -1,0 +1,424 @@
+{
+  "page": 22,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 10195,
+      "title": "Thor",
+      "original_language": "en",
+      "original_title": "Thor",
+      "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+      "popularity": 14.5358,
+      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "release_date": "2011-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.768,
+      "vote_count": 22246
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5n417Ff5GXOGCOKj3ZLMRAxEP0o.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 249397,
+      "title": "Nymphomaniac: Vol. II",
+      "original_language": "en",
+      "original_title": "Nymphomaniac: Vol. II",
+      "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+      "popularity": 16.09,
+      "poster_path": "/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+      "release_date": "2013-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.707,
+      "vote_count": 3120
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 1305781,
+      "title": "Blades of the Guardians: Wind Rises in the Desert",
+      "original_language": "zh",
+      "original_title": "镖人：风起大漠",
+      "overview": "Dao Ma, the \"second most wanted fugitive,\" is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorting the \"most wanted fugitive\" to Chang'an.",
+      "popularity": 13.5984,
+      "poster_path": "/4QZwryGm8l7N5XdEjPchNPl0BV7.jpg",
+      "release_date": "2026-02-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.139,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 694,
+      "title": "The Shining",
+      "original_language": "en",
+      "original_title": "The Shining",
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "popularity": 15.7686,
+      "poster_path": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "release_date": "1980-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.205,
+      "vote_count": 18818
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 945961,
+      "title": "Alien: Romulus",
+      "original_language": "en",
+      "original_title": "Alien: Romulus",
+      "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "popularity": 14.9556,
+      "poster_path": "/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+      "release_date": "2024-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.165,
+      "vote_count": 4469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648,
+        18
+      ],
+      "id": 1414413,
+      "title": "Brothers Under Fire",
+      "original_language": "en",
+      "original_title": "Brothers Under Fire",
+      "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+      "popularity": 14.0374,
+      "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+      "release_date": "2026-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 10193,
+      "title": "Toy Story 3",
+      "original_language": "en",
+      "original_title": "Toy Story 3",
+      "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "popularity": 15.4923,
+      "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "release_date": "2010-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.804,
+      "vote_count": 15636
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 679,
+      "title": "Aliens",
+      "original_language": "en",
+      "original_title": "Aliens",
+      "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+      "popularity": 14.259,
+      "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "release_date": "1986-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.962,
+      "vote_count": 10762
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1584215,
+      "title": "The Internship",
+      "original_language": "en",
+      "original_title": "The Internship",
+      "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+      "popularity": 14.633,
+      "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+      "release_date": "2026-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.129,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hlxduUs8y9icWGMzYCDLcYHEQ2u.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 985939,
+      "title": "Fall",
+      "original_language": "en",
+      "original_title": "Fall",
+      "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights.",
+      "popularity": 15.1861,
+      "poster_path": "/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+      "release_date": "2022-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.107,
+      "vote_count": 4467
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zV1AJUj0EzsJV05Ru2lfAWIn3R.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 545611,
+      "title": "Everything Everywhere All at Once",
+      "original_language": "en",
+      "original_title": "Everything Everywhere All at Once",
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "popularity": 14.9955,
+      "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "release_date": "2022-03-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.718,
+      "vote_count": 7856
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10751
+      ],
+      "id": 9806,
+      "title": "The Incredibles",
+      "original_language": "en",
+      "original_title": "The Incredibles",
+      "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+      "popularity": 12.3931,
+      "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "release_date": "2004-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.722,
+      "vote_count": 18794
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 436969,
+      "title": "The Suicide Squad",
+      "original_language": "en",
+      "original_title": "The Suicide Squad",
+      "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+      "popularity": 17.1068,
+      "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "release_date": "2021-07-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.463,
+      "vote_count": 9522
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1363123,
+      "title": "The Family Plan 2",
+      "original_language": "en",
+      "original_title": "The Family Plan 2",
+      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+      "popularity": 16.2233,
+      "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+      "release_date": "2025-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.542,
+      "vote_count": 547
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 24,
+      "title": "Kill Bill: Vol. 1",
+      "original_language": "en",
+      "original_title": "Kill Bill: Vol. 1",
+      "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+      "popularity": 14.0321,
+      "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "release_date": "2003-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 18817
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5R22ALClltFkQD5supuGSThX5kW.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 22512,
+      "title": "Sex, Shame & Tears",
+      "original_language": "es",
+      "original_title": "Sexo, pudor y lágrimas",
+      "overview": "A comedic drama featuring two couples and two old friends in Mexico City. Tomas visits Carlos and Ana, while Miguel and Andrea are joined by Maria. The presence of guests triggers lust, rejection, infidelities, reconciliation and other consequences.",
+      "popularity": 16.8254,
+      "poster_path": "/1j3TiCXSguHi3IGumXKpQymvUKH.jpg",
+      "release_date": "1999-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.559,
+      "vote_count": 144
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tg4IgDUIP2FPAMHZIMo9UQSKoBS.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "id": 55846,
+      "title": "Blitz",
+      "original_language": "en",
+      "original_title": "Blitz",
+      "overview": "A tough cop is dispatched to take down a serial killer who has been targeting police officers.",
+      "popularity": 15.5633,
+      "poster_path": "/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
+      "release_date": "2011-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.182,
+      "vote_count": 1793
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BS8tgBNWg2jPiDlBwM2iJe1xB7.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        35
+      ],
+      "id": 49013,
+      "title": "Cars 2",
+      "original_language": "en",
+      "original_title": "Cars 2",
+      "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+      "popularity": 14.6962,
+      "poster_path": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+      "release_date": "2011-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.177,
+      "vote_count": 8428
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14,
+        10749
+      ],
+      "id": 812,
+      "title": "Aladdin",
+      "original_language": "en",
+      "original_title": "Aladdin",
+      "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+      "popularity": 14.8136,
+      "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "release_date": "1992-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 11957
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878
+      ],
+      "id": 607,
+      "title": "Men in Black",
+      "original_language": "en",
+      "original_title": "Men in Black",
+      "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+      "popularity": 13.3064,
+      "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "release_date": "1997-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 14748
+    }
+  ],
+  "total_pages": 56395,
+  "total_results": 1127881
+}

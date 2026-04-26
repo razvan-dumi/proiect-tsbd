@@ -1,4 +1,5 @@
 /** @jsxImportSource hono/jsx */
+import type { Child } from "hono/jsx";
 import type { Movie } from "./db.ts";
 
 const POSTER_BASE = "https://image.tmdb.org/t/p/w342";
@@ -25,7 +26,7 @@ const css = `
   @media (max-width: 700px) { .detail { grid-template-columns: 1fr; } }
 `;
 
-export function Layout(props: { title: string; children: any }) {
+export function Layout(props: { title: string; children: Child }) {
   return (
     <html lang="en">
       <head>

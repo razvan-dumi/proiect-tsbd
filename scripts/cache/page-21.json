@@ -1,0 +1,423 @@
+{
+  "page": 21,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: At World's End",
+      "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+      "popularity": 15.8803,
+      "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "release_date": "2007-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 15366
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 694,
+      "title": "The Shining",
+      "original_language": "en",
+      "original_title": "The Shining",
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "popularity": 15.7686,
+      "poster_path": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "release_date": "1980-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.205,
+      "vote_count": 18818
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+      "genre_ids": [
+        18,
+        80,
+        28
+      ],
+      "id": 272,
+      "title": "Batman Begins",
+      "original_language": "en",
+      "original_title": "Batman Begins",
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "popularity": 15.7456,
+      "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "release_date": "2005-06-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 22477
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1321179,
+      "title": "The King's Warden",
+      "original_language": "ko",
+      "original_title": "왕과 사는 남자",
+      "overview": "In a remote mountain village of 15th-century Joseon, humble headman Heung-do hears a rumor that any village hosting an exiled nobleman will be blessed with abundance and fortune. Hoping to bring prosperity to his impoverished community, he eagerly submits a petition to host one—unaware that his guest is none other than the fallen monarch, deposed boy-king Danjong.",
+      "popularity": 15.7402,
+      "poster_path": "/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg",
+      "release_date": "2026-02-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5MVSXJieOhbyZudCnV1H4YJpfPV.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 103,
+      "title": "Taxi Driver",
+      "original_language": "en",
+      "original_title": "Taxi Driver",
+      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "popularity": 15.7239,
+      "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "release_date": "1976-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 13351
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7BYtnXUfweV6EryNYDpZFeS31Ia.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 577922,
+      "title": "Tenet",
+      "original_language": "en",
+      "original_title": "Tenet",
+      "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+      "popularity": 15.6992,
+      "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "release_date": "2020-08-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.173,
+      "vote_count": 11022
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1327862,
+      "title": "Regretting You",
+      "original_language": "en",
+      "original_title": "Regretting You",
+      "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+      "popularity": 15.6989,
+      "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+      "release_date": "2025-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.954,
+      "vote_count": 370
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nG5zmbVeYlcDhckrPAe06fArywn.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        18
+      ],
+      "id": 152601,
+      "title": "Her",
+      "original_language": "en",
+      "original_title": "Her",
+      "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+      "popularity": 15.6794,
+      "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "release_date": "2013-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.841,
+      "vote_count": 15224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4P71rDf6roxVskbvdcbNayVMpXd.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 14161,
+      "title": "2012",
+      "original_language": "en",
+      "original_title": "2012",
+      "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+      "popularity": 15.6695,
+      "poster_path": "/c2PkTPT5D9zB8SIm5wNlDAANEqM.jpg",
+      "release_date": "2009-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 12670
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        16,
+        10749
+      ],
+      "id": 11224,
+      "title": "Cinderella",
+      "original_language": "en",
+      "original_title": "Cinderella",
+      "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+      "popularity": 15.6405,
+      "poster_path": "/ug3ndicuPM1V07vhVFGLMsd4AZl.jpg",
+      "release_date": "1950-02-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.043,
+      "vote_count": 7113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 857,
+      "title": "Saving Private Ryan",
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "popularity": 15.6082,
+      "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "release_date": "1998-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.223,
+      "vote_count": 17094
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "id": 412117,
+      "title": "The Secret Life of Pets 2",
+      "original_language": "en",
+      "original_title": "The Secret Life of Pets 2",
+      "overview": "Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.",
+      "popularity": 15.6048,
+      "poster_path": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
+      "release_date": "2019-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.946,
+      "vote_count": 3307
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tg4IgDUIP2FPAMHZIMo9UQSKoBS.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "id": 55846,
+      "title": "Blitz",
+      "original_language": "en",
+      "original_title": "Blitz",
+      "overview": "A tough cop is dispatched to take down a serial killer who has been targeting police officers.",
+      "popularity": 15.5633,
+      "poster_path": "/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
+      "release_date": "2011-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.182,
+      "vote_count": 1793
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 746036,
+      "title": "The Fall Guy",
+      "original_language": "en",
+      "original_title": "The Fall Guy",
+      "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+      "popularity": 15.5309,
+      "poster_path": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "release_date": "2024-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.958,
+      "vote_count": 3664
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 3",
+      "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "popularity": 15.5155,
+      "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "release_date": "2023-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.922,
+      "vote_count": 8201
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 666277,
+      "title": "Past Lives",
+      "original_language": "en",
+      "original_title": "Past Lives",
+      "overview": "After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life.",
+      "popularity": 15.5074,
+      "poster_path": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "release_date": "2023-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.711,
+      "vote_count": 2278
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kHJlXiwxcMAf9R934f0ncEBAMXg.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1252309,
+      "title": "Tell Me What You Want",
+      "original_language": "es",
+      "original_title": "Pídeme lo que quieras",
+      "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+      "popularity": 15.4947,
+      "poster_path": "/yZXYCiZQPB7Ui6D5206W1zDKv8P.jpg",
+      "release_date": "2024-11-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 10193,
+      "title": "Toy Story 3",
+      "original_language": "en",
+      "original_title": "Toy Story 3",
+      "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "popularity": 15.4923,
+      "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "release_date": "2010-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.804,
+      "vote_count": 15636
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+      "genre_ids": [
+        878,
+        18,
+        53
+      ],
+      "id": 78,
+      "title": "Blade Runner",
+      "original_language": "en",
+      "original_title": "Blade Runner",
+      "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "popularity": 15.4828,
+      "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "release_date": "1982-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.939,
+      "vote_count": 14891
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+      "genre_ids": [
+        53,
+        80,
+        10770
+      ],
+      "id": 801335,
+      "title": "Girl in the Basement",
+      "original_language": "en",
+      "original_title": "Girl in the Basement",
+      "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+      "popularity": 15.4797,
+      "poster_path": "/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
+      "release_date": "2021-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.568,
+      "vote_count": 844
+    }
+  ],
+  "total_pages": 56399,
+  "total_results": 1127963
+}

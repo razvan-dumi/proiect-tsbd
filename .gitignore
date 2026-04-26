@@ -1,1 +1,4 @@
 .env
+node_modules
+oracle/data/
+oracle/models/*.onnx

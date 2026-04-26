@@ -1,0 +1,422 @@
+{
+  "page": 14,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+      "popularity": 18.6891,
+      "poster_path": "/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
+      "release_date": "2003-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.82,
+      "vote_count": 22103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "title": "12 Angry Men",
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "popularity": 20.4433,
+      "poster_path": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+      "release_date": "1957-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 9910
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mXeINZrLRKbIw51spnruegjmLBS.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1499885,
+      "title": "The Red Book Ritual: Gates of Hell",
+      "original_language": "en",
+      "original_title": "The Red Book Ritual: Gates of Hell",
+      "overview": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning, supernatural forces awaken. Now they must face ancient horrors to survive.",
+      "popularity": 69.4681,
+      "poster_path": "/dOLRsvnjOB6rCx6olyRsMT92PxI.jpg",
+      "release_date": "2025-09-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.8,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+      "popularity": 19.4581,
+      "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "release_date": "2002-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.415,
+      "vote_count": 23734
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 156022,
+      "title": "The Equalizer",
+      "original_language": "en",
+      "original_title": "The Equalizer",
+      "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+      "popularity": 18.1014,
+      "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "release_date": "2014-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.284,
+      "vote_count": 9872
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 101,
+      "title": "Léon: The Professional",
+      "original_language": "fr",
+      "original_title": "Léon",
+      "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "popularity": 16.4073,
+      "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "release_date": "1994-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.295,
+      "vote_count": 15996
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10402,
+        12
+      ],
+      "id": 354912,
+      "title": "Coco",
+      "original_language": "en",
+      "original_title": "Coco",
+      "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "popularity": 23.0499,
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "release_date": "2017-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 20850
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "genre_ids": [
+        27,
+        878,
+        35
+      ],
+      "id": 696393,
+      "title": "Cold Storage",
+      "original_language": "en",
+      "original_title": "Cold Storage",
+      "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
+      "popularity": 18.1884,
+      "poster_path": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+      "release_date": "2026-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.761,
+      "vote_count": 351
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5BZtN173AXqReBJTxE2ZikBDCl7.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 218,
+      "title": "The Terminator",
+      "original_language": "en",
+      "original_title": "The Terminator",
+      "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "popularity": 19.0991,
+      "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "release_date": "1984-10-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.678,
+      "vote_count": 14483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 767,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+      "popularity": 18.1804,
+      "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+      "release_date": "2009-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.681,
+      "vote_count": 20674
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 675,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Order of the Phoenix",
+      "overview": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+      "popularity": 19.3377,
+      "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+      "release_date": "2007-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.672,
+      "vote_count": 20697
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man 2",
+      "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+      "popularity": 17.5513,
+      "poster_path": "/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+      "release_date": "2014-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.532,
+      "vote_count": 14138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 109445,
+      "title": "Frozen",
+      "original_language": "en",
+      "original_title": "Frozen",
+      "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+      "popularity": 17.9416,
+      "poster_path": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "release_date": "2013-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.247,
+      "vote_count": 17501
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 37165,
+      "title": "The Truman Show",
+      "original_language": "en",
+      "original_title": "The Truman Show",
+      "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a reality TV show.",
+      "popularity": 17.9851,
+      "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "release_date": "1998-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.151,
+      "vote_count": 20064
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12
+      ],
+      "id": 98,
+      "title": "Gladiator",
+      "original_language": "en",
+      "original_title": "Gladiator",
+      "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+      "popularity": 19.3453,
+      "poster_path": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "release_date": "2000-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 20760
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kG8bBajeSTUxJGmS47WujcraZUk.jpg",
+      "genre_ids": [
+        27,
+        35,
+        18
+      ],
+      "id": 1284120,
+      "title": "The Ugly Stepsister",
+      "original_language": "no",
+      "original_title": "Den stygge stesøsteren",
+      "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
+      "popularity": 19.8439,
+      "poster_path": "/rayAREIKtSinuov10GvrZHyXfXH.jpg",
+      "release_date": "2025-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.301,
+      "vote_count": 1111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9VM1KI9sVZETl0d00FK7CnBzxiw.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14,
+        12
+      ],
+      "id": 1497970,
+      "title": "Tom and Jerry: Forbidden Compass",
+      "original_language": "zh",
+      "original_title": "猫和老鼠：星盘奇缘",
+      "overview": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
+      "popularity": 18.3917,
+      "poster_path": "/5qttWFjsO62k88civZaDMHiBTvy.jpg",
+      "release_date": "2025-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wz1eLrNxK77xAY7JYi4iYrtiMEd.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 78192,
+      "title": "Michael Jackson: The Life of an Icon",
+      "original_language": "en",
+      "original_title": "Michael Jackson: The Life of an Icon",
+      "overview": "See Michael Jackson, one of the most recognizable and popular entertainers of all time, like never before in the feature-length tribute Michael Jackson: The Life of an Icon. Known to millions of fans worldwide for his record-breaking albums, groundbreaking music videos, mesmerizing dance moves and humanitarian efforts, his true story has never really been told...until now. This unprecedented look into the King of Pop's fascinating life includes all-new interviews with his mother Katherine Jackson as well as siblings Tito and Rebbie Jackson, family, friends and music legends such as Smokey Robinson, Dionne Warwick and many more.",
+      "popularity": 25.2332,
+      "poster_path": "/tOCYV9JCXXFtb7YehKXJBMKI4aD.jpg",
+      "release_date": "2011-11-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "title": "Black Phone 2",
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Four years after defeating The Grabber, Finney Blake is struggling with life after captivity. When his younger sister Gwen begins receiving calls in her dreams from the Black Phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+      "popularity": 20.176,
+      "poster_path": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+      "release_date": "2025-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.718,
+      "vote_count": 1030
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 280,
+      "title": "Terminator 2: Judgment Day",
+      "original_language": "en",
+      "original_title": "Terminator 2: Judgment Day",
+      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+      "popularity": 18.8235,
+      "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "release_date": "1991-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.145,
+      "vote_count": 14162
+    }
+  ],
+  "total_pages": 56413,
+  "total_results": 1128253
+}

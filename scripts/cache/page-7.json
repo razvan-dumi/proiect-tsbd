@@ -1,0 +1,421 @@
+{
+  "page": 7,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 1061474,
+      "title": "Superman",
+      "original_language": "en",
+      "original_title": "Superman",
+      "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "popularity": 34.1371,
+      "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "release_date": "2025-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.34,
+      "vote_count": 4642
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ecksst0Cb1AO1CZwmGjJu11bfUo.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 458293,
+      "title": "Michael Jackson: Searching for Neverland",
+      "original_language": "en",
+      "original_title": "Michael Jackson: Searching for Neverland",
+      "overview": "Based on the best-selling book, Remember the Time: Protecting Michael Jackson in His Final Days, and told through the eyes of Jackson's trusted bodyguards, Bill Whitfield and Javon Beard. The movie will reveal firsthand the devotion Michael Jackson had to his children, and the hidden drama that took place during the last two years of his life.",
+      "popularity": 31.1904,
+      "poster_path": "/mRZIiG4vJiCgJh4v2EPUVVTznC8.jpg",
+      "release_date": "2017-05-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "original_language": "en",
+      "original_title": "Avatar: The Way of Water",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "popularity": 31.8924,
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "release_date": "2022-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.593,
+      "vote_count": 13998
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 603,
+      "title": "The Matrix",
+      "original_language": "en",
+      "original_title": "The Matrix",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "popularity": 30.7735,
+      "poster_path": "/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+      "release_date": "1999-03-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.242,
+      "vote_count": 27710
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "id": 950396,
+      "title": "The Gorge",
+      "original_language": "en",
+      "original_title": "The Gorge",
+      "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "popularity": 32.8949,
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "release_date": "2025-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.616,
+      "vote_count": 3604
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xOCcp04PVGHuR3gBKzquBm9DMyP.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 232078,
+      "title": "Triple Crossed",
+      "original_language": "en",
+      "original_title": "Triple Crossed",
+      "overview": "With a tour in Afghanistan behind him, war-torn Chris Jensen struggles to assimilate back to life in California. Drifting and living out of his car, he soon discovers that few are willing to deal with the remnants of a damaged career military man. Chris is self medicating; desperate to silence the echoes from the front lines. When an opportunity finally presents itself, he makes the hard decision to employ his most coveted talents honed in special ops. A job is a job and Chris knows civilian life can be just as cut-throat as time on active duty. But just how close does he have to get to Andrew Warner to secure the kill?",
+      "popularity": 16.5858,
+      "poster_path": "/doK75PABYpMHqiiHFoOJsC0pAn0.jpg",
+      "release_date": "2013-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10749
+      ],
+      "id": 50619,
+      "title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "original_language": "en",
+      "original_title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
+      "popularity": 29.8468,
+      "poster_path": "/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+      "release_date": "2011-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.189,
+      "vote_count": 9228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 1387382,
+      "title": "Hunting Season",
+      "original_language": "en",
+      "original_title": "Hunting Season",
+      "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+      "popularity": 29.7708,
+      "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.888,
+      "vote_count": 192
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 999136,
+      "title": "Do Not Enter",
+      "original_language": "en",
+      "original_title": "Do Not Enter",
+      "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
+      "popularity": 29.7362,
+      "poster_path": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+      "release_date": "2026-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.628,
+      "vote_count": 74
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "original_language": "en",
+      "original_title": "Spider-Man: Brand New Day",
+      "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
+      "popularity": 29.4502,
+      "poster_path": "/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
+      "release_date": "2026-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "title": "How to Train Your Dragon",
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "popularity": 25.2176,
+      "poster_path": "/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg",
+      "release_date": "2025-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.921,
+      "vote_count": 2734
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1233413,
+      "title": "Sinners",
+      "original_language": "en",
+      "original_title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "popularity": 31.0435,
+      "poster_path": "/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
+      "release_date": "2025-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.468,
+      "vote_count": 4375
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 991494,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "original_language": "en",
+      "original_title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "popularity": 28.9206,
+      "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+      "release_date": "2025-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 269
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1339876,
+      "title": "Mardaani 3",
+      "original_language": "hi",
+      "original_title": "मर्दानी 3",
+      "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
+      "popularity": 28.3863,
+      "poster_path": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+      "release_date": "2026-01-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "title": "Spirited Away",
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "popularity": 28.2807,
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "release_date": "2001-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.534,
+      "vote_count": 18191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 671,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Philosopher's Stone",
+      "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "popularity": 28.153,
+      "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "release_date": "2001-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.898,
+      "vote_count": 29425
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8fxfzixsgVZNtZi5KUBW2OHU3Ar.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1174024,
+      "title": "Maybe More",
+      "original_language": "fr",
+      "original_title": "Et plus si affinités",
+      "overview": "After 25 years together, married life has taken its toll on Xavier and Sophie, so when Sophie decides to invite their neighbours over for dinner, Xavier is less than enthusiastic to say the least! He can’t stand how obviously still in love they are and their lack of discretion… especially at night! On coming face-to-face with the uninhibited couple, Xavier and Sophie will be forced to confront their own, sad reality, before finding themselves pushed into a corner by a somewhat… indecent proposal.",
+      "popularity": 28.0358,
+      "poster_path": "/lABR9HrMcvHDSouESUlCpYzGBVV.jpg",
+      "release_date": "2024-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.784,
+      "vote_count": 104
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 402431,
+      "title": "Wicked",
+      "original_language": "en",
+      "original_title": "Wicked",
+      "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+      "popularity": 28.169,
+      "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "release_date": "2024-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.911,
+      "vote_count": 2979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53
+      ],
+      "id": 1223601,
+      "title": "Sisu: Road to Revenge",
+      "original_language": "fi",
+      "original_title": "Sisu 2",
+      "overview": "Returning to the house where his family was brutally murdered during the war, \"the man who refuses to die\" dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
+      "popularity": 27.5911,
+      "poster_path": "/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+      "release_date": "2025-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.323,
+      "vote_count": 691
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
+      "genre_ids": [
+        10749,
+        53
+      ],
+      "id": 1620996,
+      "title": "The Blue Box",
+      "original_language": "es",
+      "original_title": "La caja azul",
+      "overview": "Pablo is a young, wealthy but solitary man traumatized by a fatal car accident. He meets Lara through a dating app tied to an exchange of the titular blue box. As their relationship grows, Lara draws Pablo out of his shell. But an anonymous warning alerts Pablo that Lara may not be all that she seems. What begins as an intimate connection gradually turns into a tense psychological game of cat and mouse, forcing Pablo to confront both his past and the true nature of the woman he is falling in love with.",
+      "popularity": 27.2487,
+      "poster_path": "/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 8
+    }
+  ],
+  "total_pages": 56396,
+  "total_results": 1127920
+}

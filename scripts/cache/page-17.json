@@ -1,0 +1,424 @@
+{
+  "page": 17,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/yYvBNN96Ym3wtPxGCFl7F888WwB.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 207,
+      "title": "Dead Poets Society",
+      "original_language": "en",
+      "original_title": "Dead Poets Society",
+      "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+      "popularity": 17.0354,
+      "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+      "release_date": "1989-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 12506
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uKPbFF08QkRMvIAsgCh1soeyPhZ.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 329865,
+      "title": "Arrival",
+      "original_language": "en",
+      "original_title": "Arrival",
+      "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+      "popularity": 18.0797,
+      "poster_path": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+      "release_date": "2016-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.624,
+      "vote_count": 19216
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1930,
+      "title": "The Amazing Spider-Man",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+      "popularity": 16.2036,
+      "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "release_date": "2012-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.732,
+      "vote_count": 18409
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        37
+      ],
+      "id": 1601243,
+      "title": "Oscar Shaw",
+      "original_language": "en",
+      "original_title": "Oscar Shaw",
+      "overview": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
+      "popularity": 17.6344,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.533,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "id": 744,
+      "title": "Top Gun",
+      "original_language": "en",
+      "original_title": "Top Gun",
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+      "popularity": 17.5945,
+      "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "release_date": "1986-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.06,
+      "vote_count": 9468
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "original_language": "en",
+      "original_title": "The Hobbit: An Unexpected Journey",
+      "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+      "popularity": 17.4012,
+      "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+      "release_date": "2012-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.37,
+      "vote_count": 19524
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tH2SoOS2HqOJCOImbeGkmKSdCMz.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10751
+      ],
+      "id": 1265,
+      "title": "Bridge to Terabithia",
+      "original_language": "en",
+      "original_title": "Bridge to Terabithia",
+      "overview": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
+      "popularity": 16.3813,
+      "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+      "release_date": "2007-02-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.309,
+      "vote_count": 5179
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 17.6891,
+      "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "release_date": "2024-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.045,
+      "vote_count": 4607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sYQwMTzlb8uSyaE7e3cfpfYOshu.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1658214,
+      "title": "Scorpio Nights 4",
+      "original_language": "tl",
+      "original_title": "Scorpio Nights 4",
+      "overview": "A countryside boy rents a room from a couple and discovers a hole exposing their secrets. His voyeurism leads into tangled affairs with two women, unraveling a twisted game of lust and betrayal.",
+      "popularity": 18.1547,
+      "poster_path": "/lhgGvrHkwu9mtNeAhzaG828boH4.jpg",
+      "release_date": "2026-03-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "genre_ids": [
+        18,
+        28,
+        12,
+        36,
+        10752
+      ],
+      "id": 1495,
+      "title": "Kingdom of Heaven",
+      "original_language": "en",
+      "original_title": "Kingdom of Heaven",
+      "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+      "popularity": 14.7751,
+      "poster_path": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "release_date": "2005-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.021,
+      "vote_count": 4878
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+      "genre_ids": [
+        28,
+        878,
+        18
+      ],
+      "id": 39254,
+      "title": "Real Steel",
+      "original_language": "en",
+      "original_title": "Real Steel",
+      "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+      "popularity": 17.1946,
+      "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+      "release_date": "2011-09-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.069,
+      "vote_count": 9028
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        10751
+      ],
+      "id": 823219,
+      "title": "Flow",
+      "original_language": "lv",
+      "original_title": "Straume",
+      "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+      "popularity": 17.9213,
+      "poster_path": "/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+      "release_date": "2024-08-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.084,
+      "vote_count": 2760
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 637649,
+      "title": "Wrath of Man",
+      "original_language": "en",
+      "original_title": "Wrath of Man",
+      "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+      "popularity": 18.2804,
+      "poster_path": "/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+      "release_date": "2021-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 6032
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36
+      ],
+      "id": 652,
+      "title": "Troy",
+      "original_language": "en",
+      "original_title": "Troy",
+      "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+      "popularity": 17.3124,
+      "poster_path": "/51auXjXepW1zblzhaN7CAhwvf5i.jpg",
+      "release_date": "2004-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 10968
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1135873,
+      "title": "GGS - Ganteng-Ganteng Sange",
+      "original_language": "hi",
+      "original_title": "GGS - Ganteng-Ganteng Sange",
+      "overview": "Kelas Bintang is back with this pack of drama called GGS - Ganteng-Ganteng Sange.",
+      "popularity": 18.2045,
+      "poster_path": "/39fFH027tOpTyZwSNOydSAsOCzb.jpg",
+      "release_date": "2023-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 539972,
+      "title": "Kraven the Hunter",
+      "original_language": "en",
+      "original_title": "Kraven the Hunter",
+      "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+      "popularity": 17.1913,
+      "poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "release_date": "2024-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.428,
+      "vote_count": 2298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5AsIFZ2AJC7JcGpq40aRPuRuaRc.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1241752,
+      "title": "Rita",
+      "original_language": "tl",
+      "original_title": "Rita",
+      "overview": "Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?",
+      "popularity": 20.3026,
+      "poster_path": "/pXENxAzOBrTSDJGxDcUnlNTNmWr.jpg",
+      "release_date": "2024-03-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/impZCV9HiZ3bIrKK5bD1TKRsfVM.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1297454,
+      "title": "The Death That Awaits",
+      "original_language": "en",
+      "original_title": "The Death That Awaits",
+      "overview": "A drifter searching for answers to a mystery from her past takes on a job looking after a sick teen who is undergoing a mysterious transformation her family will do anything to stop.",
+      "popularity": 16.5249,
+      "poster_path": "/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",
+      "release_date": "2025-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8eifdha9GQeZAkexgtD45546XKx.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 822119,
+      "title": "Captain America: Brave New World",
+      "original_language": "en",
+      "original_title": "Captain America: Brave New World",
+      "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+      "popularity": 14.6111,
+      "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "release_date": "2025-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.978,
+      "vote_count": 3038
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 2062,
+      "title": "Ratatouille",
+      "original_language": "en",
+      "original_title": "Ratatouille",
+      "overview": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He dreams of becoming a chef, one who creates rather than scavenges. When fate deposits him in the sewers beneath one of Paris’s most famous restaurants, he finds himself ideally placed to fulfill his dream. Forming an unusual alliance with a hapless young kitchen worker, Remy begins a daring culinary double life.  As Remy pursues his vision, he must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, who strikes fear in the hearts of chefs all throughout France.",
+      "popularity": 14.4327,
+      "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "release_date": "2007-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.838,
+      "vote_count": 18368
+    }
+  ],
+  "total_pages": 56396,
+  "total_results": 1127916
+}
